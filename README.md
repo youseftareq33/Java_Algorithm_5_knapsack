@@ -1,3 +1,3 @@
 # knapsack Problem
 
-Implemntation of knapsack Problem Solution
+Implementation of knapsack Problem Solution
